@@ -1,5 +1,3 @@
-adas
-dasd
 asdasdaads
 fsdsiasdsdfdsadsadasd
 
