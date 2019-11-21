@@ -1,3 +1,5 @@
 [submodule "sub-children"]
 	path = sub-children
-	url = ./sub-children
+	url = https://gitee.com/normal-coder/sub-children.git
+	branch = master
+
