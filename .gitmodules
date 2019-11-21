@@ -1,0 +1,3 @@
+[submodule "sub-children"]
+	path = sub-children
+	url = ./sub-children
